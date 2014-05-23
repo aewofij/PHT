@@ -1,6 +1,7 @@
 package PHT;
 
 import java.util.Map;
+import com.cycling74.max.*;
 
 /** Interface for representing a sound to be placed in a PHTSpeakerSet. */
 public interface PHTSound {
