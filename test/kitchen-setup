@@ -1,0 +1,4 @@
+"cupboard right", 3 4. 1. -1.5 4 5;
+"cupboard left", 4 -5. 2. -1.5 3 6;
+board, 5 5. 0. -1. 6 3;
+fridge, 6 -5. 2. 0. 5 4;
