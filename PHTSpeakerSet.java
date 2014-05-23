@@ -262,7 +262,7 @@ public class PHTSpeakerSet extends MaxObject {
 
 	protected void killSound(PHTSound s) {
 		// DEBUG: Post dying sounds.
-		post("killing: " + s.id());
+		// post("killing: " + s.id());
 
 		Atom[] toOutput = s.kill();
 		if (toOutput != null && toOutput.length > 0) {
